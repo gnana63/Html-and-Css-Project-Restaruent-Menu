@@ -1,0 +1,60 @@
+.food-image {
+    height: 300px;
+    width: 300px;
+}
+.fresh-healthy-heading {
+    font-size: 24px;
+    color: rgb(126, 126, 241);
+    font-weight: 600;
+    text-align: left;
+}
+.content-food {
+    color: rgb(69, 126, 126);
+    text-align: left;
+}
+.button-food-section {
+    color: white;
+    background-color: rgb(243, 163, 15);
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+.discount-image{
+    height: 300px;
+    width: 300px;
+}
+.button-order {
+    height: 40px;
+    width: 120px;
+    color: white;
+    background-color: gold;
+    border-radius: 7px;
+    border-width: 0px;
+}
+.payment-type-image {
+    height: 60px;
+    width: 60px;
+    margin: 20px;
+}
+.thanking-heading{
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.gift-image {
+    height: 250px;
+    width: 200px;
+}
+.thanking-container{
+    background-color: antiquewhite;
+}
+.gift-button {
+    color: white;
+    background-color: orange;
+    height: 36px;
+    width: 120px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-bottom: 20px;
+}

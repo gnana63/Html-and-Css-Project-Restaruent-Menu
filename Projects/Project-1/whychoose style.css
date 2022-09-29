@@ -1,0 +1,35 @@
+.background-container{
+    background-color: #f9fbfe;
+}
+.main-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #183b56;
+    font-family: "Roboto";
+
+}
+.food-description {
+    font-family: "Roboto";
+}
+.card-image {
+    height: 70px;
+    width: 80px;
+
+}
+.card-headingname {
+    font-size: 20px;
+    color: rgb(125, 100, 100);
+}
+.card-container {
+   background-color: aliceblue;
+   border-style: solid;
+   border-width: 1px;
+   text-align: center;
+   border-radius: 15px;
+   padding: 30px;
+  
+  
+}
+#cardsection3 {
+    padding: 42px;
+}

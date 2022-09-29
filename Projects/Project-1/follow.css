@@ -1,0 +1,20 @@
+.followus-heading {
+    font-size: 30px;
+}
+.icons-section {
+    color: gold;
+    font-size: 40px;
+    background-color: rgb(245, 240, 212);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    padding-top: 5px;
+    margin: 20px;
+   
+}
+.follow-us-container{
+    text-align: center;
+}
+.hello {
+    text-align: center;
+}

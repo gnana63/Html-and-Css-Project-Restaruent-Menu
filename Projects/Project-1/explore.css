@@ -1,0 +1,29 @@
+
+
+.menu-mainheading {
+    font-weight: 600;
+    color: rgb(92, 14, 165);
+    font-size: 25px;
+}
+.image-1 {
+    height: 200px;
+    width: 309px;
+    border-radius: 20px;
+}
+.card-name {
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 300;
+    padding-top: 10px;
+}
+.anchor-tag {
+    color: orange;
+}
+.card-container {
+    border-style: solid;
+    border-width: 0.1px;
+    border-radius: 20px;
+    border-color: azure;
+    margin-bottom: 10px;
+
+}
